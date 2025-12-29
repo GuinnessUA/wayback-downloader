@@ -1,7 +1,3 @@
-# AppiClean Wayback Archive
-
-Очищена локальна копія сайту https://appiclean.com.ua з Wayback Machine (станом на 2025 рік).
-
 ## Що тут є
 
 - `clean.py` — скрипт для очищення HTML від Wayback Machine (видаляє префікси, виправляє посилання, стилі, редіректи)
